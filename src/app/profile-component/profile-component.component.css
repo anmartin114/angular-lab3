@@ -1,0 +1,29 @@
+.info {
+  background-color: #eee;
+  padding: 20px;
+  width: 400px;
+  margin: auto;
+  border-radius: 15px;
+  box-shadow: 0px 0px 10px 0px rgba(204, 204, 204, 1);
+}
+
+.name {
+  font-weight: bold;
+}
+
+.contact {
+  color: #505355;
+}
+
+button {
+  background-color: #505355;
+  color: #eee;
+  border: none;
+  border-radius: 15px;
+  width: 100%;
+  padding: 14px;
+}
+
+button:hover {
+  background-color: #5becd8;
+}
